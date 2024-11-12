@@ -1,5 +1,5 @@
 # edutech-workspace
-#admin page
+# admin page
 1.user account
 2.courses
 3.communication tools
@@ -11,7 +11,7 @@
 9.invoice generation
 10.certificate management
 11.help
-#mentor page
+# mentor page
 1.profile picture
 2.mentor name
 2.professional designation
@@ -21,7 +21,7 @@
 6.mentor's content
 7.student reviews
 8.help
-#student page
+# student page
 1.profile picture
 2.payment facility
 3.time table
